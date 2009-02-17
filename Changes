@@ -1,0 +1,8 @@
+Revision history for Catalyst::Engine::Mojo
+
+0.001_02 2008-12-05
+    - fixed write() to return bytes written (but still a hack)
+    - fixed prepare_path(), removed "localhost:3000" hack (upstream fix)
+
+0.001_01 2008-12-01
+    - initial release (very buggy and incomplete)

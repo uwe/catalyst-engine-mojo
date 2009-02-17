@@ -1,0 +1,4 @@
+\.svn
+.*~
+test
+MANIFEST.SKIP
