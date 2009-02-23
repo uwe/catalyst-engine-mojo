@@ -142,6 +142,10 @@ The API and even module names are likely to change.
 
 B<DO NOT USE FOR PRODUCTION.>
 
+=head1 REPOSITORY
+
+    http://github.com/uwe/catalyst-engine-mojo/tree/master
+
 =head1 SEE ALSO
 
 L<Mojo>, L<Catalyst>
